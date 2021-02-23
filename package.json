@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "node ./server.js"
+  },
   "dependencies": {
     "koa": "^2.13.1",
     "koa-router": "^10.0.0"
